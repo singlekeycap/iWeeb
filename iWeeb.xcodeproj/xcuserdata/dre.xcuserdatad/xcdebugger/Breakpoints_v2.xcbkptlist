@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "56A04A6B-B443-4052-B4FD-E6162BBCFAFA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iWeeb/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - ea23c24a1a2be3cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of iWeeb.ContentView.screen_height : CoreGraphics.CGFloat"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - 369a71438a322e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWeeb.ContentView.screen_height.getter : CoreGraphics.CGFloat"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - 37aaad0d5a7992f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWeeb.ContentView.screen_height.setter : CoreGraphics.CGFloat"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - 141c6fe5d306e6e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWeeb.ContentView.screen_height.modify : CoreGraphics.CGFloat"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - fa6433c950b042f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWeeb.ContentView.screen_height.modify : CoreGraphics.CGFloat with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - 4458d69449fecd39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWeeb.ContentView.$screen_height.getter : SwiftUI.Binding&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "4B10D46B-138D-4EDB-A1B2-16F10462317C - 2965805ab27a4a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWeeb.ContentView.init() -&gt; iWeeb.ContentView"
+                  moduleName = "iWeeb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dre/Downloads/iWeeb/iWeeb/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
