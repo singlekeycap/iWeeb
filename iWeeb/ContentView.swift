@@ -182,12 +182,28 @@ struct ContentView: View {
                         .onTapGesture {
                             UIApplication.shared.open(URL(string: "https://singlekeycap.ml")!)
                         }
+                        Spacer()
+                        HStack() {
+                            Spacer()
+                                .frame(width: 20)
+                            Image("GitHub")
+                                .resizable(resizingMode: .stretch)
+                                .frame(width: 40, height: 40)
+                            Spacer()
+                                .frame(width: 20)
+                            Text("Open sourced on GitHub!")
+                            Spacer()
+                        }
+                        .onTapGesture {
+                            UIApplication.shared.open(URL(string: "https://github.com/singlekeycap/iWeeb")!)
+                        }
 
                     }
                     Spacer()
+                        .frame(height: 20)
                     Divider()
                     Spacer()
-                        .frame(height:15)
+                        .frame(height: 15)
                 }
                     .tabItem {
                         Image(systemName: "text.aligncenter")
