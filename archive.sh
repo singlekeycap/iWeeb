@@ -5,7 +5,7 @@ xcodebuild archive -project iWeeb.xcodeproj -scheme iWeeb -archivePath unsigned.
 mkdir ml.singlekeycap.iweeb_${version}_iphoneos-arm
 mkdir ml.singlekeycap.iweeb_${version}_iphoneos-arm/DEBIAN
 cp -r unsigned.xcarchive/Products/Applications ml.singlekeycap.iweeb_${version}_iphoneos-arm/Applications
-echo -e "Package: ml.singlekeycap.iweeb\nName: iWeeb\nDepends: firmware (>= 15.0)\nArchitecture: iphoneos-arm\nDescription: Best weeb app for all weebs\nMaintainer: SingleKeycap\nAuthor: SingleKeycap\nSection: Applications\nVersion: ${version}\nInstalled-Size: $(du -ks ml.singlekeycap.iweeb_${version}_iphoneos-arm/Applications|cut -f 1)\n" > ml.singlekeycap.iweeb_${version}_iphoneos-arm/DEBIAN/control
+echo -e "Package: ml.singlekeycap.iweeb\nName: iWeeb\nDepends: firmware (>= 14.0)\nArchitecture: iphoneos-arm\nDescription: Best weeb app for all weebs\nMaintainer: SingleKeycap\nAuthor: SingleKeycap\nSection: Applications\nVersion: ${version}\nInstalled-Size: $(du -ks ml.singlekeycap.iweeb_${version}_iphoneos-arm/Applications|cut -f 1)\n" > ml.singlekeycap.iweeb_${version}_iphoneos-arm/DEBIAN/control
 chmod -R 0755 ml.singlekeycap.iweeb_${version}_iphoneos-arm/DEBIAN
 dpkg-deb --build ml.singlekeycap.iweeb_${version}_iphoneos-arm
 
